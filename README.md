@@ -54,4 +54,4 @@ cd DPDzero-Devops-Assignment
 
 ## Logs
 Logs showing both service_1 (Golang) and service_2 (Python) responding to `/ping` requests:
-![logs](./screenshot/logs.png)
+![logs](./logs.png)
